@@ -31,6 +31,12 @@ map[string]int{
 ```
 
 #### Starter Code:
+```
+func CountWords(words []string) map[string]int {
+	// TODO: implement logic here
+	return map[string]int{}
+}
+```
 
 ## 3. Sum Odd Number Only
 > Given `[]int{1, 2, 3, 4, 5, 6}`, return the sum of only the odd numbers.
